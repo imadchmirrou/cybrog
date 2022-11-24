@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cybrog/static/css/main.41cddeb3.css",
+    "main.js": "/cybrog/static/js/main.cdeed4cb.js",
+    "static/media/background.png": "/cybrog/static/media/background.1407f59f20032cbc6d16.png",
+    "static/media/popular_01.png": "/cybrog/static/media/popular_01.4148d630fe2012b36268.png",
+    "static/media/popular_03.png": "/cybrog/static/media/popular_03.645d521d8d0296ac7ddf.png",
+    "static/media/popular_06.png": "/cybrog/static/media/popular_06.f9c7c179a45304494d08.png",
+    "static/media/popular_02.png": "/cybrog/static/media/popular_02.1b730feaef803ef731cb.png",
+    "static/media/popular_05.png": "/cybrog/static/media/popular_05.5c7010fcce91106f2781.png",
+    "static/media/popular_07.png": "/cybrog/static/media/popular_07.1911ea26c0ad30e9e40f.png",
+    "static/media/popular_08.png": "/cybrog/static/media/popular_08.0a2f4ff18f91c2fda8a2.png",
+    "static/media/game-02.png": "/cybrog/static/media/game-02.a0ac5e381143a81d2a0a.png",
+    "static/media/popular_04.png": "/cybrog/static/media/popular_04.cf01973a865fb6dde18a.png",
+    "static/media/logo.png": "/cybrog/static/media/logo.ee1e2b78f9a1aa0c7a67.png",
+    "static/media/game-03.png": "/cybrog/static/media/game-03.eb6f47d5e71e0cd00d37.png",
+    "static/media/game-01.png": "/cybrog/static/media/game-01.b4288fedc4f8d1a6c778.png",
+    "index.html": "/cybrog/index.html",
+    "main.41cddeb3.css.map": "/cybrog/static/css/main.41cddeb3.css.map",
+    "main.cdeed4cb.js.map": "/cybrog/static/js/main.cdeed4cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cddeb3.css",
+    "static/js/main.cdeed4cb.js"
+  ]
+}
